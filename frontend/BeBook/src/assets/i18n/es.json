@@ -1,0 +1,657 @@
+{
+  "NAVBAR": {
+    "LOCATIONS": "Sedes",
+    "CATALOG": "Catálogo",
+    "FORUM": "Foro",
+    "LOGIN": "Acceder",
+    "LOGOUT": "Cerrar Reserva",
+    "SETTINGS": "Configuración",
+    "ADMIN": "Panel Admin"
+  },
+  "HOME": {
+    "SLOGAN": "Donde los libros cobran vida",
+    "EXPLORE_BTN": "Explorar Experiencia",
+    "PILLARS": {
+      "TITLE": "Pilares de Excelencia",
+      "EXPLORE": {
+        "TITLE": "Explora",
+        "TEXT": "Sumérgete en un catálogo curado que abarca desde los clásicos eternos hasta las voces contemporáneas más disruptivas."
+      },
+      "LOCATE": {
+        "TITLE": "Localiza",
+        "TEXT": "Tu próximo rincón de lectura te espera. Encuentra sedes equipadas con la última tecnología en un ambiente de total serenidad."
+      },
+      "RESERVE": {
+        "TITLE": "Reserva",
+        "TEXT": "Experiencias personalizadas a tu medida. Reserva espacios de lectura privada y eventos exclusivos con un solo toque."
+      },
+      "CONNECT": {
+        "TITLE": "Conecta",
+        "TEXT": "La lectura no es solitaria. Forma parte de un ecosistema intelectual dinámico donde las ideas fluyen libremente."
+      }
+    },
+    "WHO": {
+      "SUBTITLE": "Nuestra Herencia",
+      "TITLE": "BeBook",
+      "TEXT_1": "En el corazón de cada volumen reside una historia esperando ser redescubierta. BeBook nació del sueño de preservar la sabiduría ancestral en un mundo acelerado, creando un santuario donde el tiempo parece detenerse.",
+      "TEXT_2": "No somos solo una biblioteca; somos curadores de experiencias intelectuales. Desde pergaminos antiguos hasta los formatos digitales más vanguardistas, BeBook es el puente entre el ayer y el mañana.",
+      "MANIFESTO": "NUESTRO MANIFIESTO",
+      "AESTHETIC": "Aesthetic Library",
+      "EST": "Est. 2024",
+      "RESERVE_KNOWLEDGE": "BeBook Library",
+      "CURATION": "Curaduría Exclusiva"
+    },
+    "TOP_RATED": {
+      "TITLE": "Obras Maestras",
+      "VIEW_ALL": "Ver Catálogo Completo",
+      "ADD_WISHLIST": "Añadir a Deseados",
+      "CATEGORIES": {
+        "CLASSICS": "Clásicos",
+        "VANGUARD": "Vanguardia",
+        "PHILOSOPHY": "Filosofía"
+      },
+      "BOOKS": {
+        "ALEPH": {
+          "TITLE": "El Aleph",
+          "AUTHOR": "Jorge Luis Borges"
+        },
+        "RAYUELA": {
+          "TITLE": "Rayuela",
+          "AUTHOR": "Julio Cortázar"
+        },
+        "FICCIONES": {
+          "TITLE": "Ficciones",
+          "AUTHOR": "Jorge Luis Borges"
+        }
+      }
+    },
+    "EVENTS": {
+      "SUBTITLE": "Agenda Cultural",
+      "TITLE": "Próximos Encuentros",
+      "REGISTERED": "registrados",
+      "LIMITED": "cupos limitados",
+      "HYBRID": "Evento Híbrido",
+      "BOOK_INVITATION": "Reservar Invitación",
+      "EVENT_1": {
+        "DATE": "25 Mayo, 2024",
+        "TITLE": "Noche de Poesía Clásica",
+        "DESC": "Una lectura bajo las estrellas con los versos más influyentes de la literatura hispana.",
+        "LOC": "Sede Central, Patio de los Naranjos"
+      },
+      "EVENT_2": {
+        "DATE": "12 Junio, 2024",
+        "TITLE": "Workshop: Encuadernación Artesanal",
+        "DESC": "Aprende las técnicas milenarias para preservar el conocimiento en su forma más pura.",
+        "LOC": "Atelier de Restauración"
+      },
+      "EVENT_3": {
+        "DATE": "05 Julio, 2024",
+        "TITLE": "Simposio: Futuro Digital del Libro",
+        "DESC": "Expertos globales debaten sobre la convergencia entre el papel y la inteligencia artificial.",
+        "LOC": "Auditorio Multimedia"
+      }
+    },
+    "CAROUSEL": {
+      "ITEM_1": {
+        "TITLE": "Santuario del Silencio",
+        "SUBTITLE": "Sede Principal"
+      },
+      "ITEM_2": {
+        "TITLE": "Vanguardia Literaria",
+        "SUBTITLE": "Espacios de Co-Working"
+      },
+      "ITEM_3": {
+        "TITLE": "Inmersión Digital",
+        "SUBTITLE": "Sala VR & Audiobooks"
+      }
+    }
+  },
+  "LOCATIONS": {
+    "SUBTITLE": "Red de Conocimiento",
+    "TITLE": "Nuestras Sedes",
+    "FOUND_COUNT": "{{count}} sedes encontradas",
+    "SEARCH_PLACEHOLDER": "Buscar por nombre, ciudad o dirección...",
+    "ALL_PROVINCES": "Todas las Provincias",
+    "NEAR_ME": "Cerca de mí",
+    "LOCATING": "Localizando...",
+    "NOT_FOUND": "No se han encontrado sedes en esta zona.",
+    "VIEW_MAP": "Ver en el Mapa",
+    "CONTACT": "Contacto",
+    "HOURS": "Horario",
+    "LOCATION_ACTIVE": "Ubicación Activa",
+    "PROXIMITY_DEACTIVATED": "Búsqueda por proximidad desactivada.",
+    "REQUESTING_ACCESS": "Solicitando acceso a tu ubicación...",
+    "GEOLOCATION_NOT_SUPPORTED": "La geolocalización no es soportada por tu navegador.",
+    "LOCATION_DETECTED": "Ubicación detectada. Mostrando sedes cercanas.",
+    "IP_FALLBACK_SUCCESS": "Ubicación aproximada detectada vía red ({{city}}).",
+    "LOCATION_ERROR": "No se pudo determinar tu ubicación.",
+    "ACCESS_DENIED": "Has denegado el acceso a la ubicación.",
+    "BOOKED_TURN": "Turno Reservado",
+    "MODIFY_TURN": "Modificar Turno",
+    "BOOK_TURN": "Reservar Turno",
+    "ENTER": "Ingresar",
+    "SCHEDULE_DAYS": "Lunes a Sábado: 09:00 - 21:00 hs",
+    "NAMES": {
+      "Biblioteca": "Biblioteca",
+      "Librería": "Librería",
+      "Santuario": "Santuario",
+      "Rincón": "Rincón",
+      "Espacio": "Espacio",
+      "Refugio": "Refugio",
+      "Cuna": "Cuna",
+      "Norte": "Norte",
+      "Sur": "Sur",
+      "Este": "Este",
+      "Oeste": "Oeste",
+      "Centro": "Centro",
+      "Palacio": "Palacio",
+      "Plaza": "Plaza",
+      "Estación": "Estación",
+      "Puerto": "Puerto",
+      "Mirador": "Mirador"
+    },
+    "SERVICES": {
+      "VR Room": "Sala VR",
+      "Study Area": "Área de Estudio",
+      "Cafeteria": "Cafetería",
+      "Digital Archives": "Archivos Digitales",
+      "Kids Zone": "Zona Infantil",
+      "Workshop Room": "Sala de Talleres",
+      "Co-Working Space": "Espacio Co-Working"
+    }
+  },
+  "CATALOG": {
+    "SUBTITLE": "Reserva Intelectual",
+    "TITLE": "Catálogo",
+    "SEARCH_PLACEHOLDER": "Buscar autor, título o categoría...",
+    "FOUND_COUNT": "{{count}} tesoros encontrados",
+    "ALL_GENRES": "Todos los Géneros",
+    "IN_WISHLIST": "En Deseados",
+    "TABS": {
+      "ALL": "Todos",
+      "BOOK": "Libro",
+      "NOTE": "Apunte",
+      "PRODUCT": "Producto"
+    },
+    "FREE": "Gratis",
+    "NOT_FOUND": "No se han encontrado tesoros con ese nombre.",
+    "PREMIUM_COLLECTION": "Colección Premium",
+    "SUMMARY": "Resumen de la obra",
+    "VIEW_PDF": "Visualizar PDF",
+    "ACQUIRE": "Adquirir por",
+    "ADD_WISHLIST": "Añadir a Deseados",
+    "BY": "Por",
+    "PURCHASE": {
+      "CONFIRM_TITLE": "Confirmar Compra",
+      "CONFIRM_SUBTITLE": "¿Deseas confirmar la compra de \"{{name}}\" por ${{price}}?",
+      "YES": "Confirmar y Pagar",
+      "NO": "Cancelar",
+      "SUCCESS_TITLE": "¡Compra Exitosa!",
+      "SUCCESS_TEXT": "Disfruta de tu nueva lectura.",
+      "ERROR_TITLE": "Atención",
+      "UNDERSTOOD": "Entendido",
+      "ERRORS": {
+        "LOGIN_REQUIRED": "Debes iniciar sesión para realizar una compra.",
+        "NO_PAYMENT": "No tienes métodos de pago configurados. Por favor, agrega uno en tu perfil."
+      }
+    },
+    "CART": {
+      "TITLE": "Mis Deseados",
+      "EMPTY": "Tu lista está vacía",
+      "TOTAL": "Total Acumulado",
+      "CHECKOUT": "Confirmar Compra",
+      "CONFIRM_ORDER": "Confirmar Orden",
+      "CONFIRM_SUBTITLE": "¿Estás seguro de que deseas adquirir estos {{count}} tesoros literarios por un total de ${{total}}?",
+      "YES": "Sí, Confirmar Pago",
+      "NO": "Cancelar",
+      "SUCCESS_TITLE": "¡Compra Exitosa!",
+      "SUCCESS_TEXT": "Tus libros han sido añadidos a tu colección.",
+      "ERRORS": {
+        "LOGIN": "Debes iniciar sesión para comprar.",
+        "PAYMENT": "No tienes un método de pago configurado. Configúralo en tu perfil."
+      }
+    }
+  },
+  "PROFILE": {
+    "TITLE": "Mi Perfil",
+    "SUBTITLE": "Gestión de Cuenta",
+    "TABS": {
+      "GENERAL": "General",
+      "BOOKINGS": "Mis Turnos",
+      "MEMBERSHIP": "Suscripción",
+      "HISTORY": "Historial",
+      "STATS": "Estadísticas",
+      "SECURITY": "Seguridad"
+    },
+    "GENERAL": {
+      "AVATAR_HINT": "Haz clic en la imagen para cambiar tu avatar",
+      "NAME_LABEL": "Nombre Público",
+      "EMAIL_LABEL": "Correo Electrónico",
+      "SAVE_BTN": "Guardar Cambios",
+      "SUCCESS": "Perfil actualizado con éxito"
+    },
+    "BOOKINGS": {
+      "TITLE": "Mis Reservas",
+      "SUBTITLE": "Gestiona tus visitas a nuestras sedes BeBook.",
+      "EMPTY": "No tienes turnos programados.",
+      "CANCEL_CONFIRM_TITLE": "Cancelar Turno",
+      "CANCEL_CONFIRM_MSG": "¿Estás seguro de que deseas cancelar este turno? Esta acción no se puede deshacer.",
+      "CANCEL_SUCCESS": "Turno cancelado exitosamente",
+      "CANCEL_ERROR": "Error al cancelar el turno",
+      "ACTIVITY_CALENDAR": "Calendario de Actividad"
+    },
+    "SECURITY": {
+      "TITLE": "Renovar Llave de Acceso",
+      "SUBTITLE": "Actualiza tu contraseña periódicamente para mantener tu santuario seguro.",
+      "PASSWORD_LABEL": "Nueva Contraseña",
+      "UPDATE_BTN": "Actualizar Seguridad"
+    },
+    "MEMBERSHIP": {
+      "TITLE": "Suscripción y Pagos",
+      "SUBTITLE": "Gestiona tus planes, promociones y métodos de pago.",
+      "VIEW_METHODS": "Ver mis métodos",
+      "VIEW_PLANS": "Ver planes disponibles",
+      "MY_METHODS": "Mis Tarjetas y Cuentas",
+      "ADD_NEW": "Añadir Nuevo",
+      "EMPTY_METHODS": "No tienes métodos de pago guardados.",
+      "PRINCIPAL": "Principal",
+      "SET_DEFAULT": "Marcar como principal",
+      "PROMOS": "Promociones y Descuentos",
+      "PROMOS_HINTS": {
+        "WELCOME": "20% de descuento en tu primer mes",
+        "STUDENT": "Tarifa especial para estudiantes"
+      },
+      "APPLY": "Aplicar",
+      "PLANS": {
+        "READER": "Lector Voraz",
+        "ERUDITE": "Erudito",
+        "FEATURES": {
+          "UNLIMITED": "Libros ilimitados",
+          "NO_ADS": "Sin anuncios",
+          "EARLY_ACCESS": "Acceso anticipado",
+          "EVENTS": "Eventos exclusivos",
+          "GIFTS": "Regalos mensuales"
+        },
+        "SELECT": "Seleccionar Plan",
+        "SUCCESS": "¡Suscripción a {{plan}} activada!",
+        "ERROR_NO_PAYMENT": "Primero debes añadir un método de pago"
+      },
+      "MODAL": {
+        "TITLE": "Nuevo Método",
+        "CARD": "Tarjeta",
+        "MERCADO_PAGO": "Mercado Pago",
+        "CARD_TYPE": "Tipo de Tarjeta",
+        "CARD_NUMBER": "Número de Tarjeta",
+        "EXPIRY": "Expiración",
+        "CVV": "CVV",
+        "EMAIL_MP": "Email de Mercado Pago",
+        "SAVE_BTN": "Guardar Método",
+        "SUCCESS_ADD": "Método de pago agregado",
+        "SUCCESS_DELETE": "Método de pago eliminado",
+        "SUCCESS_UPDATE": "Método principal actualizado",
+        "DELETE_TITLE": "Eliminar Método",
+        "DELETE_CONFIRM": "¿Estás seguro de que deseas eliminar este método de pago?"
+      }
+    },
+    "HISTORY": {
+      "TITLE": "Historial de Actividad",
+      "SUBTITLE": "Un registro detallado de tus interacciones en BeBook.",
+      "SYNC": "Sincronizar Historial",
+      "EMPTY": "No hay actividad registrada aún.",
+      "ACTION_HINT": "Acción realizada en el sitio",
+      "LOGS": {
+        "SUBSCRIPTION_UPDATE": "Actualizaste tu suscripción al plan: {{plan}}",
+        "PURCHASE": "Compraste {{count}} libro(s) por ${{amount}}",
+        "BOOKING": "Reservaste un turno para el {{date}} a las {{time}}",
+        "COMMENT": "Dejaste un comentario con una valoración de {{rating}} estrellas",
+        "FORUM_TOPIC": "Creaste un nuevo tema: \"{{title}}\"",
+        "FORUM_REPLY": "Respondiste a un tema en el foro"
+      }
+    },
+    "STATS": {
+      "TITLE": "Panel de Estadísticas",
+      "SUBTITLE": "Visualiza tu impacto y actividad en la comunidad.",
+      "COUNTS": {
+        "ORDERS": "Pedidos",
+        "BOOKINGS": "Reservas",
+        "COMMENTS": "Comentarios",
+        "FORUM": "Foro"
+      },
+      "CHARTS": {
+        "DISTRIBUTION": "Distribución de Actividad",
+        "SPENDING": "Inversión Mensual",
+        "BOOKINGS_MONTH": "Reservas por Mes"
+      }
+    }
+  },
+  "AUTH": {
+    "WELCOME_BACK": "Bienvenido de nuevo",
+    "JOIN_RESERVE": "Únete a la reserva",
+    "LOGIN_TAB": "Entrar",
+    "REGISTER_TAB": "Registrar",
+    "FULL_NAME": "Nombre Completo",
+    "EMAIL": "Email Institucional",
+    "PASSWORD": "Contraseña",
+    "STRENGTH": "Security",
+    "STRENGTH_TEXT": {
+      "VERY_WEAK": "Muy débil",
+      "WEAK": "Débil",
+      "MEDIUM": "Media",
+      "STRONG": "Fuerte",
+      "EXCELLENT": "Excelente"
+    },
+    "REQUIREMENTS": {
+      "CHARACTERS": "10+ Caracteres",
+      "UPPERCASE": "Mayúscula",
+      "NUMBER": "Número",
+      "SPECIAL": "Signo Especial"
+    },
+    "LOGIN_BTN": "Acceder al Santuario",
+    "REGISTER_BTN": "Crear Identidad",
+    "OR_CONTINUE": "O continúa con",
+    "FORGOT_PASSWORD": "¿Olvidaste tu llave de acceso?"
+  },
+  "FORUM": {
+    "SUBTITLE": "Comunidad BeBook",
+    "TITLE": "Foros de Debate",
+    "SEARCH_PLACEHOLDER": "Buscar debates...",
+    "NEW_TOPIC": "Nuevo Tema",
+    "CATEGORIES_TITLE": "Categorías",
+    "REPLIES": "Respuestas",
+    "VIEWS": "Vistas",
+    "NOT_FOUND": "No se encontraron debates. ¡Inicia uno nuevo!",
+    "SUCCESS_TITLE": "¡Éxito!",
+    "CATEGORIES": {
+      "Todas": "Todas",
+      "Literatura": "Literatura",
+      "Estudio": "Estudio",
+      "Eventos": "Eventos",
+      "General": "General",
+      "Soporte": "Soporte"
+    },
+    "CREATE_MODAL": {
+      "TITLE": "Iniciar Nuevo Debate",
+      "LABEL_TITLE": "Título del Debate",
+      "PLACEHOLDER_TITLE": "¿Sobre qué quieres hablar?",
+      "LABEL_CATEGORY": "Categoría",
+      "LABEL_CONTENT": "Contenido",
+      "PLACEHOLDER_CONTENT": "Describe tu tema de debate...",
+      "CANCEL": "Cancelar",
+      "SUBMIT": "Publicar Tema",
+      "SUCCESS": "Tema creado correctamente"
+    },
+    "THREAD": {
+      "COMMUNITY_DIALOG": "Diálogo Comunitario",
+      "EMPTY": "No hay respuestas aún. ¡Inicia la conversación!",
+      "REPLYING_TO": "Respondiendo a",
+      "EDITING": "Editando tu pensamiento",
+      "PLACEHOLDER": "Comparte tu reflexión...",
+      "PLACEHOLDER_REPLY": "Escribe tu respuesta...",
+      "EDITED": "(editado)",
+      "REPLY_BTN": "Responder",
+      "EDIT_BTN": "Editar",
+      "DELETE_BTN": "Eliminar",
+      "DELETE_CONFIRM_TITLE": "Eliminar respuesta",
+      "DELETE_CONFIRM_MSG": "¿Estás seguro de que quieres eliminar esta respuesta? Se borrarán también sus respuestas anidadas."
+    }
+  },
+  "COMENTARIOS": {
+    "TITLE": "Reseñas y Comentarios",
+    "COUNT": "{{count}} reseñas",
+    "VALUATION": "Tu valoración",
+    "PLACEHOLDER": "Comparte tu experiencia...",
+    "LOGIN_REQUIRED": "Debes iniciar sesión para comentar",
+    "CANCEL_EDIT": "Cancelar edición",
+    "EMPTY": "Aún no hay comentarios. ¡Sé el primero!",
+    "DELETE_TITLE": "Confirmar eliminación",
+    "DELETE_CONFIRM": "¿Estás seguro de que deseas eliminar este comentario?",
+    "EDIT_BTN": "Editar",
+    "DELETE_BTN": "Eliminar",
+    "SUCCESS": "Comentario guardado"
+  },
+  "COMMON": {
+    "CONFIRM": "Confirmar",
+    "CANCEL": "Cancelar",
+    "YES": "Sí",
+    "NO": "No",
+    "UNDERSTOOD": "Entendido",
+    "CLOSE": "Cerrar",
+    "SAVE": "Guardar",
+    "EDIT": "Editar",
+    "DELETE": "Eliminar",
+    "LOADING": "Cargando..."
+  },
+  "BOOKING": {
+    "CALENDAR_SELECT": "Selecciona un día en el calendario",
+    "RESERVING_IN": "Reservar en",
+    "MODIFYING_IN": "Modificar reserva en",
+    "CONFIRM_RESERVE": "Confirmar Reserva",
+    "UPDATE_RESERVE": "Actualizar Reserva",
+    "SUCCESS_TITLE": "¡Turno Reservado!",
+    "SUCCESS_TITLE_EDIT": "¡Turno Modificado!",
+    "SUCCESS_TEXT": "Te esperamos en {{name}}.",
+    "ERRORS": {
+      "LOGIN": "Debes iniciar sesión para reservar.",
+      "PROCESS": "Error al procesar la reserva"
+    },
+    "DAYS": ["D", "L", "M", "M", "J", "V", "S"],
+    "MONTHS": ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"]
+  },
+  "FOOTER": {
+    "SLOGAN": "Santuario del Silencio",
+    "MAIN_OFFICE": "Sede Principal",
+    "DESC": "Redefiniendo el santuario de la lectura. Fusionamos la elegancia del pasado con la innovación del futuro para crear una experiencia literaria sin precedentes.",
+    "EXPLORE": {
+      "TITLE": "Explorar",
+      "CATALOG": "Catálogo",
+      "NEWS": "Novedades",
+      "AUTHORS": "Autores",
+      "PUBLISHERS": "Editoriales",
+      "VIP": "Sedes VIP"
+    },
+    "COMMUNITY": {
+      "TITLE": "Comunidad",
+      "MEMBERSHIPS": "Membresías",
+      "FORUMS": "Foros",
+      "EVENTS": "Eventos",
+      "BLOG": "Blog Literario",
+      "SUPPORT": "Soporte"
+    },
+    "NEWSLETTER": "Newsletter",
+    "CONTACT": {
+      "ADDRESS": "Sede Central, Buenos Aires",
+      "PHONE": "+54 (11) 4567-8900"
+    },
+    "PRIVACY": "Privacidad",
+    "TERMS": "Términos",
+    "COOKIES": "Cookies",
+    "CREDITS": "© 2026 BeBook. Curado por Ag Studio's."
+  },
+  "DATA": {
+    "CATEGORIES": {
+      "Ficción": "Ficción",
+      "Historia": "Historia",
+      "Ciencia": "Ciencia",
+      "Poesía": "Poesía",
+      "Filosofía": "Filosofía",
+      "Arte": "Arte",
+      "Biografía": "Biografía",
+      "Suspenso": "Suspenso",
+      "Clásicos": "Clásicos",
+      "Matemáticas": "Matemáticas",
+      "Física": "Física",
+      "Derecho": "Derecho",
+      "Medicina": "Medicina",
+      "Ingeniería": "Ingeniería",
+      "Psicología": "Psicología",
+      "Economía": "Economía",
+      "Accesorios": "Accesorios",
+      "Papelería": "Papelería",
+      "Tecnología": "Tecnología",
+      "Decoración": "Decoración",
+      "Todas": "Todas",
+      "Literatura": "Literatura",
+      "Estudio": "Estudio",
+      "Eventos": "Eventos",
+      "General": "General",
+      "Soporte": "Soporte"
+    },
+    "TYPES": {
+      "Libro": "Libro",
+      "Apunte": "Apunte",
+      "Producto": "Producto"
+    },
+    "ADJECTIVES": {
+      "Esencial": "Esencial",
+      "Completo": "Completo",
+      "Moderno": "Moderno",
+      "Clásico": "Clásico",
+      "Definitivo": "Definitivo",
+      "Inspirador": "Inspirador",
+      "Técnico": "Técnico",
+      "Premium": "Premium",
+      "Minimalista": "Minimalista",
+      "Elegante": "Elegante"
+    },
+    "NOUNS": {
+      "Manual": "Manual",
+      "Tratado": "Tratado",
+      "Crónica": "Crónica",
+      "Ensayos": "Ensayos",
+      "Relatos": "Relatos",
+      "Poemas": "Poemas",
+      "Novela": "Novela",
+      "Guía": "Guía",
+      "Resumen": "Resumen",
+      "Apuntes": "Apuntes",
+      "Guía de Estudio": "Guía de Estudio",
+      "Compendio": "Compendio",
+      "Esquemas": "Esquemas",
+      "Preparación": "Preparación",
+      "Lecciones": "Lecciones",
+      "Cuaderno": "Cuaderno",
+      "Lápiz": "Lápiz",
+      "Lámpara": "Lámpara",
+      "Estuche": "Estuche",
+      "Marcador": "Marcador",
+      "Soporte": "Soporte",
+      "Bolso": "Bolso"
+    },
+    "DESCRIPTIONS": {
+      "PRODUCT_DESC": "Este {{type}} ofrece una perspectiva única sobre {{category}}. Ideal para aquellos que buscan profundizar su conocimiento con un enfoque {{adj}}."
+    }
+  },
+  "SUPPORT": {
+    "TITLE": "Soporte",
+    "SUBTITLE": "Santuario del Silencio",
+    "HELP_PROMPT": "¿En qué rincón del santuario podemos ayudarte?",
+    "BACK": "Volver",
+    "SPECIFIC_PROMPT": "Sé más específico, por favor...",
+    "RELEVANT_INFO": "Información Relevante",
+    "OTHER_INQUIRY": "¿Tienes otra inquietud?",
+    "BACK_TO": "Volver a {{label}}",
+    "EXPLORE_OTHER": "Explorar otras categorías",
+    "DATA": {
+      "CATALOG": {
+        "TITLE": "Catálogo",
+        "SUB": {
+          "DISPONIBILIDAD": "Disponibilidad",
+          "FORMATOS": "Formatos Digitales",
+          "PAGOS": "Precios y Pagos"
+        },
+        "RESPONSES": {
+          "DISPONIBILIDAD": [
+            "Nuestro catálogo se expande semanalmente con nuevas adquisiciones curadas.",
+            "Si un tesoro literario no aparece, es posible que esté en proceso de restauración digital.",
+            "La disponibilidad de ejemplares físicos varía según la sede seleccionada."
+          ],
+          "FORMATOS": [
+            "Ofrecemos formatos ePub y PDF de alta fidelidad para una lectura inmersiva.",
+            "Cada obra digital incluye una capa de anotaciones exclusivas del Santuario.",
+            "Puedes acceder a tus lecturas desde cualquier dispositivo sincronizado con tu cuenta."
+          ],
+          "PAGOS": [
+            "Aceptamos las principales tarjetas y métodos de pago digital del mercado.",
+            "Mantenemos una política de transparencia absoluta en nuestras tarifas intelectuales.",
+            "Existen membresías especiales que otorgan acceso libre a grandes secciones del catálogo."
+          ]
+        }
+      },
+      "EVENTS": {
+        "TITLE": "Eventos",
+        "SUB": {
+          "PROXIMOS": "Próximos Encuentros",
+          "INSCRIPCIONES": "Inscripciones",
+          "SUGERENCIAS": "Sugerencias"
+        },
+        "RESPONSES": {
+          "PROXIMOS": [
+            "La agenda cultural se actualiza mensualmente con simposios y lecturas nocturnas.",
+            "Estamos preparando una serie de workshops sobre preservación de manuscritos.",
+            "Consulta la sección de Eventos para descubrir las próximas veladas bajo las estrellas."
+          ],
+          "INSCRIPCIONES": [
+            "Los cupos son limitados para preservar la atmósfera de intimidad y reflexión.",
+            "Recibirás un código de acceso único en tu correo institucional tras la reserva.",
+            "Las cancelaciones deben realizarse con 24 horas de antelación para ceder el espacio."
+          ],
+          "SUGERENCIAS": [
+            "Valoramos profundamente las propuestas de nuestra comunidad intelectual.",
+            "¿Tienes algún autor o temática en mente para nuestro próximo diálogo?",
+            "Todas las sugerencias son evaluadas por nuestro comité de curaduría."
+          ]
+        }
+      },
+      "SUPPORT": {
+        "TITLE": "Soporte",
+        "SUB": {
+          "CUENTA": "Cuenta y Perfil",
+          "TECNICO": "Problemas Técnicos",
+          "PRIVACIDAD": "Privacidad"
+        },
+        "RESPONSES": {
+          "CUENTA": [
+            "Puedes personalizar tu identidad literaria desde el panel de configuración.",
+            "Asegúrate de mantener tu correo institucional actualizado para notificaciones VIP.",
+            "La seguridad de tu llave de acceso es nuestra máxima prioridad técnica."
+          ],
+          "TECNICO": [
+            "Estamos optimizando constantemente el santuario digital para tu fluidez.",
+            "Si experimentas lentitud, intenta limpiar los registros de tu navegador.",
+            "Nuestro equipo de ingeniería monitoriza el sistema en tiempo real las 24 horas."
+          ],
+          "PRIVACIDAD": [
+            "Tus datos están resguardados bajo los más altos estándares de encriptación.",
+            "En BeBook, el anonimato de tus preferencias de lectura es un derecho sagrado.",
+            "Nunca compartimos tu información con entidades ajenas a nuestra reserva."
+          ]
+        }
+      },
+      "GENERAL": {
+        "TITLE": "General",
+        "SUB": {
+          "SOBRE": "Sobre BeBook",
+          "MEMBRESIAS": "Membresías",
+          "VIP": "Sedes VIP"
+        },
+        "RESPONSES": {
+          "SOBRE": [
+            "Somos un santuario dedicado a la preservación y difusión del conocimiento.",
+            "Nuestra misión es unir la elegancia del pasado con la tecnología del futuro.",
+            "Nacimos en 2024 con la visión de crear un espacio de lectura sin precedentes."
+          ],
+          "MEMBRESIAS": [
+            "Las membresías BeBook ofrecen beneficios exclusivos en todas nuestras sedes.",
+            "Desde accesos anticipados hasta invitaciones a eventos privados de gala.",
+            "Existen diferentes niveles adaptados a tu ritmo de inmersión literaria."
+          ],
+          "VIP": [
+            "Nuestras sedes VIP cuentan con salas de lectura privadas y servicio de curaduría.",
+            "Ubicadas en entornos de serenidad absoluta para una concentración total.",
+            "Puedes reservar turnos exclusivos a través de nuestro mapa interactivo."
+          ]
+        }
+      }
+    }
+  }
+}

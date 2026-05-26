@@ -1,0 +1,649 @@
+{
+  "NAVBAR": {
+    "LOCATIONS": "Locations",
+    "CATALOG": "Catalog",
+    "FORUM": "Forum",
+    "LOGIN": "Login",
+    "LOGOUT": "Logout",
+    "SETTINGS": "Settings",
+    "ADMIN": "Admin Panel"
+  },
+  "HOME": {
+    "SLOGAN": "Where books come to life",
+    "EXPLORE_BTN": "Explore Experience",
+    "PILLARS": {
+      "TITLE": "Pillars of Excellence",
+      "EXPLORE": {
+        "TITLE": "Explore",
+        "TEXT": "Immerse yourself in a curated catalog ranging from eternal classics to the most disruptive contemporary voices."
+      },
+      "LOCATE": {
+        "TITLE": "Locate",
+        "TEXT": "Your next reading corner awaits. Find locations equipped with the latest technology in an environment of total serenity."
+      },
+      "RESERVE": {
+        "TITLE": "Reserve",
+        "TEXT": "Personalized experiences tailored to you. Reserve private reading spaces and exclusive events with a single touch."
+      },
+      "CONNECT": {
+        "TITLE": "Connect",
+        "TEXT": "Reading is not solitary. Be part of a dynamic intellectual ecosystem where ideas flow freely."
+      }
+    },
+    "WHO": {
+      "SUBTITLE": "Who We Are",
+      "TITLE": "BeBook",
+      "TEXT_1": "At the heart of every volume lies a story waiting to be rediscovered. BeBook was born from the dream of preserving ancestral wisdom in a fast-paced world, creating a sanctuary where time seems to stand still.",
+      "TEXT_2": "We are not just a library; we are curators of intellectual experiences. From ancient scrolls to the most cutting-edge digital formats, BeBook is the bridge between yesterday and tomorrow.",
+      "MANIFESTO": "OUR MANIFESTO",
+      "AESTHETIC": "Aesthetic Library",
+      "EST": "Est. 2024",
+      "RESERVE_KNOWLEDGE": "BeBook Library",
+      "CURATION": "Exclusive Curation"
+    },
+    "TOP_RATED": {
+      "TITLE": "Masterpieces",
+      "VIEW_ALL": "View Full Catalog",
+      "ADD_WISHLIST": "Add to Wishlist",
+      "CATEGORIES": {
+        "CLASSICS": "Classics",
+        "VANGUARD": "Vanguard",
+        "PHILOSOPHY": "Philosophy"
+      },
+      "BOOKS": {
+        "ALEPH": {
+          "TITLE": "The Aleph",
+          "AUTHOR": "Jorge Luis Borges"
+        },
+        "RAYUELA": {
+          "TITLE": "Hopscotch",
+          "AUTHOR": "Julio Cortázar"
+        },
+        "FICCIONES": {
+          "TITLE": "Fictions",
+          "AUTHOR": "Jorge Luis Borges"
+        }
+      }
+    },
+    "EVENTS": {
+      "SUBTITLE": "Cultural Agenda",
+      "TITLE": "Upcoming Encounters",
+      "REGISTERED": "registered",
+      "LIMITED": "limited spots",
+      "HYBRID": "Hybrid Event",
+      "BOOK_INVITATION": "Book Invitation",
+      "EVENT_1": {
+        "DATE": "May 25, 2024",
+        "TITLE": "Classic Poetry Night",
+        "DESC": "A reading under the stars with the most influential verses of Hispanic literature.",
+        "LOC": "Central Headquarters, Orange Tree Courtyard"
+      },
+      "EVENT_2": {
+        "DATE": "June 12, 2024",
+        "TITLE": "Workshop: Handcrafted Bookbinding",
+        "DESC": "Learn millenary techniques to preserve knowledge in its purest form.",
+        "LOC": "Restoration Atelier"
+      },
+      "EVENT_3": {
+        "DATE": "July 05, 2024",
+        "TITLE": "Symposium: Digital Future of the Book",
+        "DESC": "Global experts debate the convergence between paper and artificial intelligence.",
+        "LOC": "Multimedia Auditorium"
+      }
+    },
+    "CAROUSEL": {
+      "ITEM_1": {
+        "TITLE": "Sanctuary of Silence",
+        "SUBTITLE": "Main Headquarters"
+      },
+      "ITEM_2": {
+        "TITLE": "Literary Vanguard",
+        "SUBTITLE": "Co-Working Spaces"
+      },
+      "ITEM_3": {
+        "TITLE": "Digital Immersion",
+        "SUBTITLE": "VR Room & Audiobooks"
+      }
+    }
+  },
+  "LOCATIONS": {
+    "SUBTITLE": "Knowledge Network",
+    "TITLE": "Our Locations",
+    "FOUND_COUNT": "{{count}} locations found",
+    "SEARCH_PLACEHOLDER": "Search by name, city or address...",
+    "ALL_PROVINCES": "All Provinces",
+    "NEAR_ME": "Near Me",
+    "LOCATING": "Locating...",
+    "NOT_FOUND": "No locations found in this area.",
+    "VIEW_MAP": "View on Map",
+    "CONTACT": "Contact",
+    "HOURS": "Hours",
+    "LOCATION_ACTIVE": "Active Location",
+    "PROXIMITY_DEACTIVATED": "Proximity search deactivated.",
+    "REQUESTING_ACCESS": "Requesting access to your location...",
+    "GEOLOCATION_NOT_SUPPORTED": "Geolocation is not supported by your browser.",
+    "LOCATION_DETECTED": "Location detected. Showing nearby branches.",
+    "IP_FALLBACK_SUCCESS": "Approximate location detected via network ({{city}}).",
+    "LOCATION_ERROR": "Could not determine your location.",
+    "ACCESS_DENIED": "You have denied access to the location.",
+    "BOOKED_TURN": "Reserved Turn",
+    "MODIFY_TURN": "Modify Turn",
+    "BOOK_TURN": "Book Turn",
+    "ENTER": "Enter",
+    "SCHEDULE_DAYS": "Monday to Saturday: 09:00 - 21:00 hs",
+    "NAMES": {
+      "Biblioteca": "Library",
+      "Librería": "Bookstore",
+      "Santuario": "Sanctuary",
+      "Rincón": "Corner",
+      "Espacio": "Space",
+      "Refugio": "Refuge",
+      "Cuna": "Cradle",
+      "Norte": "North",
+      "Sur": "South",
+      "Este": "East",
+      "Oeste": "West",
+      "Centro": "Center",
+      "Palacio": "Palace",
+      "Plaza": "Square",
+      "Estación": "Station",
+      "Puerto": "Port",
+      "Mirador": "Viewpoint"
+    },
+    "SERVICES": {
+      "VR Room": "VR Room",
+      "Study Area": "Study Area",
+      "Cafeteria": "Cafeteria",
+      "Digital Archives": "Digital Archives",
+      "Kids Zone": "Kids Zone",
+      "Workshop Room": "Workshop Room",
+      "Co-Working Space": "Co-Working Space"
+    }
+  },
+  "CATALOG": {
+    "SUBTITLE": "Intellectual Reserve",
+    "TITLE": "Curated Catalog",
+    "SEARCH_PLACEHOLDER": "Search by author, title or category...",
+    "FOUND_COUNT": "{{count}} treasures found",
+    "ALL_GENRES": "All Genres",
+    "IN_WISHLIST": "In Wishlist",
+    "TABS": {
+      "ALL": "All",
+      "BOOK": "Book",
+      "NOTE": "Note",
+      "PRODUCT": "Product"
+    },
+    "FREE": "Free",
+    "NOT_FOUND": "No treasures found with that name.",
+    "PREMIUM_COLLECTION": "Premium Collection",
+    "SUMMARY": "Work summary",
+    "VIEW_PDF": "View PDF",
+    "ACQUIRE": "Acquire for",
+    "ADD_WISHLIST": "Add to Wishlist",
+    "BY": "By",
+    "PURCHASE": {
+      "CONFIRM_TITLE": "Confirm Purchase",
+      "CONFIRM_SUBTITLE": "Do you want to confirm the purchase of \"{{name}}\" for ${{price}}?",
+      "YES": "Confirm and Pay",
+      "NO": "Cancel",
+      "SUCCESS_TITLE": "Successful Purchase!",
+      "SUCCESS_TEXT": "Enjoy your new reading.",
+      "ERROR_TITLE": "Attention",
+      "UNDERSTOOD": "Understood",
+      "ERRORS": {
+        "LOGIN_REQUIRED": "You must be logged in to make a purchase.",
+        "NO_PAYMENT": "You have no payment methods configured. Please add one in your profile."
+      }
+    },
+    "CART": {
+      "TITLE": "My Wishlist",
+      "EMPTY": "Your list is empty",
+      "TOTAL": "Accumulated Total",
+      "CHECKOUT": "Confirm Purchase",
+      "CONFIRM_ORDER": "Confirm Order",
+      "CONFIRM_SUBTITLE": "Are you sure you want to acquire these {{count}} literary treasures for a total of ${{total}}?",
+      "YES": "Yes, Confirm Payment",
+      "NO": "Cancel",
+      "SUCCESS_TITLE": "Successful Purchase!",
+      "SUCCESS_TEXT": "Your books have been added to your collection.",
+      "ERRORS": {
+        "LOGIN": "You must be logged in to buy.",
+        "PAYMENT": "You have no payment method configured. Set it up in your profile."
+      }
+    }
+  },
+  "PROFILE": {
+    "TITLE": "My Profile",
+    "SUBTITLE": "Account Management",
+    "TABS": {
+      "GENERAL": "General",
+      "BOOKINGS": "My Bookings",
+      "MEMBERSHIP": "Subscription",
+      "HISTORY": "History",
+      "STATS": "Statistics",
+      "SECURITY": "Security"
+    },
+    "GENERAL": {
+      "AVATAR_HINT": "Click the image to change your avatar",
+      "NAME_LABEL": "Public Name",
+      "EMAIL_LABEL": "Email Address",
+      "SAVE_BTN": "Save Changes",
+      "SUCCESS": "Profile updated successfully"
+    },
+    "BOOKINGS": {
+      "TITLE": "My Bookings",
+      "SUBTITLE": "Manage your visits to our BeBook locations.",
+      "EMPTY": "You have no scheduled bookings.",
+      "CANCEL_CONFIRM_TITLE": "Cancel Booking",
+      "CANCEL_CONFIRM_MSG": "Are you sure you want to cancel this booking? This action cannot be undone.",
+      "CANCEL_SUCCESS": "Booking cancelled successfully",
+      "CANCEL_ERROR": "Error cancelling booking",
+      "ACTIVITY_CALENDAR": "Activity Calendar"
+    },
+    "SECURITY": {
+      "TITLE": "Renew Access Key",
+      "SUBTITLE": "Update your password periodically to keep your sanctuary secure.",
+      "PASSWORD_LABEL": "New Password",
+      "UPDATE_BTN": "Update Security"
+    },
+    "MEMBERSHIP": {
+      "TITLE": "Subscription & Payments",
+      "SUBTITLE": "Manage your plans, promotions and payment methods.",
+      "VIEW_METHODS": "View my methods",
+      "VIEW_PLANS": "View available plans",
+      "MY_METHODS": "My Cards & Accounts",
+      "ADD_NEW": "Add New",
+      "EMPTY_METHODS": "You have no saved payment methods.",
+      "PRINCIPAL": "Default",
+      "SET_DEFAULT": "Set as default",
+      "PROMOS": "Promotions & Discounts",
+      "PROMOS_HINTS": {
+        "WELCOME": "20% off on your first month",
+        "STUDENT": "Special rate for students"
+      },
+      "APPLY": "Apply",
+      "PLANS": {
+        "READER": "Voracious Reader",
+        "ERUDITE": "Erudite",
+        "FEATURES": {
+          "UNLIMITED": "Unlimited books",
+          "NO_ADS": "No ads",
+          "EARLY_ACCESS": "Early access",
+          "EVENTS": "Exclusive events",
+          "GIFTS": "Monthly gifts"
+        },
+        "SELECT": "Select Plan",
+        "SUCCESS": "Subscription to {{plan}} activated!",
+        "ERROR_NO_PAYMENT": "First you must add a payment method"
+      },
+      "MODAL": {
+        "TITLE": "New Method",
+        "CARD": "Card",
+        "MERCADO_PAGO": "Mercado Pago",
+        "CARD_TYPE": "Card Type",
+        "CARD_NUMBER": "Card Number",
+        "EXPIRY": "Expiry",
+        "CVV": "CVV",
+        "EMAIL_MP": "Mercado Pago Email",
+        "SAVE_BTN": "Save Method",
+        "SUCCESS_ADD": "Payment method added",
+        "SUCCESS_DELETE": "Payment method removed",
+        "SUCCESS_UPDATE": "Principal method updated",
+        "DELETE_TITLE": "Remove Method",
+        "DELETE_CONFIRM": "Are you sure you want to remove this payment method?"
+      }
+    },
+    "HISTORY": {
+      "TITLE": "Activity History",
+      "SUBTITLE": "A detailed record of your interactions on BeBook.",
+      "SYNC": "Sync History",
+      "EMPTY": "No activity recorded yet.",
+      "ACTION_HINT": "Action performed on site"
+    },
+    "STATS": {
+      "TITLE": "Statistics Panel",
+      "SUBTITLE": "Visualize your impact and activity in the community.",
+      "COUNTS": {
+        "ORDERS": "Orders",
+        "BOOKINGS": "Bookings",
+        "COMMENTS": "Comments",
+        "FORUM": "Forum"
+      },
+      "CHARTS": {
+        "DISTRIBUTION": "Activity Distribution",
+        "SPENDING": "Monthly Investment",
+        "BOOKINGS_MONTH": "Bookings per Month"
+      }
+    }
+  },
+  "AUTH": {
+    "WELCOME_BACK": "Welcome back",
+    "JOIN_RESERVE": "Join the reserve",
+    "LOGIN_TAB": "Login",
+    "REGISTER_TAB": "Register",
+    "FULL_NAME": "Full Name",
+    "EMAIL": "Institutional Email",
+    "PASSWORD": "Password",
+    "STRENGTH": "Security",
+    "STRENGTH_TEXT": {
+      "VERY_WEAK": "Very weak",
+      "WEAK": "Weak",
+      "MEDIUM": "Medium",
+      "STRONG": "Strong",
+      "EXCELLENT": "Excellent"
+    },
+    "REQUIREMENTS": {
+      "CHARACTERS": "10+ Characters",
+      "UPPERCASE": "Uppercase",
+      "NUMBER": "Number",
+      "SPECIAL": "Special Sign"
+    },
+    "LOGIN_BTN": "Access the Sanctuary",
+    "REGISTER_BTN": "Create Identity",
+    "OR_CONTINUE": "Or continue with",
+    "FORGOT_PASSWORD": "Forgot your access key?"
+  },
+  "FORUM": {
+    "SUBTITLE": "BeBook Community",
+    "TITLE": "Discussion Forums",
+    "SEARCH_PLACEHOLDER": "Search discussions...",
+    "NEW_TOPIC": "New Topic",
+    "CATEGORIES_TITLE": "Categories",
+    "REPLIES": "Replies",
+    "VIEWS": "Views",
+    "NOT_FOUND": "No discussions found. Start a new one!",
+    "SUCCESS_TITLE": "Success!",
+    "CATEGORIES": {
+      "Todas": "All",
+      "Literatura": "Literature",
+      "Estudio": "Study",
+      "Eventos": "Events",
+      "General": "General",
+      "Soporte": "Support"
+    },
+    "CREATE_MODAL": {
+      "TITLE": "Start New Discussion",
+      "LABEL_TITLE": "Topic Title",
+      "PLACEHOLDER_TITLE": "What would you like to discuss?",
+      "LABEL_CATEGORY": "Category",
+      "LABEL_CONTENT": "Content",
+      "PLACEHOLDER_CONTENT": "Describe your discussion topic...",
+      "CANCEL": "Cancel",
+      "SUBMIT": "Publish Topic",
+      "SUCCESS": "Topic created successfully"
+    },
+    "THREAD": {
+      "COMMUNITY_DIALOG": "Community Dialogue",
+      "EMPTY": "No replies yet. Start the conversation!",
+      "REPLYING_TO": "Replying to",
+      "EDITING": "Editing your thought",
+      "PLACEHOLDER": "Share your reflection...",
+      "PLACEHOLDER_REPLY": "Write your reply...",
+      "EDITED": "(edited)",
+      "REPLY_BTN": "Reply",
+      "EDIT_BTN": "Edit",
+      "DELETE_BTN": "Delete",
+      "DELETE_CONFIRM_TITLE": "Delete reply",
+      "DELETE_CONFIRM_MSG": "Are you sure you want to delete this reply? Its nested replies will also be deleted."
+    }
+  },
+  "COMENTARIOS": {
+    "TITLE": "Reviews & Feedback",
+    "COUNT": "{{count}} reviews",
+    "VALUATION": "Your rating",
+    "PLACEHOLDER": "Share your reading experience...",
+    "LOGIN_REQUIRED": "Log in to leave a comment",
+    "CANCEL_EDIT": "Discard changes",
+    "EMPTY": "No reviews yet. Be the first to share your thoughts!",
+    "DELETE_TITLE": "Confirm Deletion",
+    "DELETE_CONFIRM": "Are you sure you want to remove this reflection?",
+    "EDIT_BTN": "Edit",
+    "DELETE_BTN": "Delete",
+    "SUCCESS": "Comment saved successfully"
+  },
+  "COMMON": {
+    "CONFIRM": "Confirm",
+    "CANCEL": "Cancel",
+    "YES": "Yes",
+    "NO": "No",
+    "UNDERSTOOD": "Understood",
+    "CLOSE": "Close",
+    "SAVE": "Save",
+    "EDIT": "Edit",
+    "DELETE": "Delete",
+    "LOADING": "Loading..."
+  },
+  "BOOKING": {
+    "CALENDAR_SELECT": "Select a day on the calendar",
+    "RESERVING_IN": "Reserving in",
+    "MODIFYING_IN": "Modifying reservation in",
+    "CONFIRM_RESERVE": "Confirm Reservation",
+    "UPDATE_RESERVE": "Update Reservation",
+    "SUCCESS_TITLE": "Turn Reserved!",
+    "SUCCESS_TITLE_EDIT": "Turn Modified!",
+    "SUCCESS_TEXT": "We await you at {{name}}.",
+    "ERRORS": {
+      "LOGIN": "You must log in to reserve.",
+      "PROCESS": "Error processing reservation"
+    },
+    "DAYS": ["S", "M", "T", "W", "T", "F", "S"],
+    "MONTHS": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+  },
+  "FOOTER": {
+    "SLOGAN": "Sanctuary of Silence",
+    "MAIN_OFFICE": "Main Headquarters",
+    "DESC": "Redefining the sanctuary of reading. We merge the elegance of the past with the innovation of the future to create an unprecedented literary experience.",
+    "EXPLORE": {
+      "TITLE": "Explore",
+      "CATALOG": "Catalog",
+      "NEWS": "New Releases",
+      "AUTHORS": "Authors",
+      "PUBLISHERS": "Publishers",
+      "VIP": "VIP Locations"
+    },
+    "COMMUNITY": {
+      "TITLE": "Community",
+      "MEMBERSHIPS": "Memberships",
+      "FORUMS": "Forums",
+      "EVENTS": "Events",
+      "BLOG": "Literary Blog",
+      "SUPPORT": "Support"
+    },
+    "NEWSLETTER": "Newsletter",
+    "CONTACT": {
+      "ADDRESS": "Central Headquarters, Buenos Aires",
+      "PHONE": "+54 (11) 4567-8900"
+    },
+    "PRIVACY": "Privacy",
+    "TERMS": "Terms",
+    "COOKIES": "Cookies",
+    "CREDITS": "© 2026 BeBook. Curated by Ag Studio's."
+  },
+  "DATA": {
+    "CATEGORIES": {
+      "Ficción": "Fiction",
+      "Historia": "History",
+      "Ciencia": "Science",
+      "Poesía": "Poetry",
+      "Filosofía": "Philosophy",
+      "Arte": "Art",
+      "Biografía": "Biography",
+      "Suspenso": "Suspense",
+      "Clásicos": "Classics",
+      "Matemáticas": "Mathematics",
+      "Física": "Physics",
+      "Derecho": "Law",
+      "Medicina": "Medicine",
+      "Ingeniería": "Engineering",
+      "Psicología": "Psychology",
+      "Economía": "Economics",
+      "Accesorios": "Accessories",
+      "Papelería": "Stationery",
+      "Tecnología": "Technology",
+      "Decoración": "Decoration",
+      "Todas": "All",
+      "Literatura": "Literature",
+      "Estudio": "Study",
+      "Eventos": "Events",
+      "General": "General",
+      "Soporte": "Support"
+    },
+    "TYPES": {
+      "Libro": "Book",
+      "Apunte": "Note",
+      "Producto": "Product"
+    },
+    "ADJECTIVES": {
+      "Esencial": "Essential",
+      "Completo": "Complete",
+      "Moderno": "Modern",
+      "Clásico": "Classic",
+      "Definitivo": "Ultimate",
+      "Inspirador": "Inspirational",
+      "Técnico": "Technical",
+      "Premium": "Premium",
+      "Minimalista": "Minimalist",
+      "Elegante": "Elegant"
+    },
+    "NOUNS": {
+      "Manual": "Manual",
+      "Tratado": "Treaty",
+      "Crónica": "Chronicle",
+      "Ensayos": "Essays",
+      "Relatos": "Stories",
+      "Poemas": "Poems",
+      "Novela": "Novel",
+      "Guía": "Guide",
+      "Resumen": "Summary",
+      "Apuntes": "Notes",
+      "Guía de Estudio": "Study Guide",
+      "Compendio": "Compendium",
+      "Esquemas": "Outlines",
+      "Preparación": "Preparation",
+      "Lecciones": "Lessons",
+      "Cuaderno": "Notebook",
+      "Lápiz": "Pencil",
+      "Lámpara": "Lamp",
+      "Estuche": "Case",
+      "Marcador": "Marker",
+      "Soporte": "Stand",
+      "Bolso": "Bag"
+    },
+    "DESCRIPTIONS": {
+      "PRODUCT_DESC": "This {{type}} offers a unique perspective on {{category}}. Ideal for those looking to deepen their knowledge with a {{adj}} approach."
+    }
+  },
+  "SUPPORT": {
+    "TITLE": "Support",
+    "SUBTITLE": "Sanctuary of Silence",
+    "HELP_PROMPT": "In which corner of the sanctuary can we help you?",
+    "BACK": "Back",
+    "SPECIFIC_PROMPT": "Please be more specific...",
+    "RELEVANT_INFO": "Relevant Information",
+    "OTHER_INQUIRY": "Do you have another concern?",
+    "BACK_TO": "Back to {{label}}",
+    "EXPLORE_OTHER": "Explore other categories",
+    "DATA": {
+      "CATALOG": {
+        "TITLE": "Catalog",
+        "SUB": {
+          "DISPONIBILIDAD": "Availability",
+          "FORMATOS": "Digital Formats",
+          "PAGOS": "Prices and Payments"
+        },
+        "RESPONSES": {
+          "DISPONIBILIDAD": [
+            "Our catalog expands weekly with new curated acquisitions.",
+            "If a literary treasure doesn't appear, it might be undergoing digital restoration.",
+            "The availability of physical copies varies depending on the selected branch."
+          ],
+          "FORMATOS": [
+            "We offer high-fidelity ePub and PDF formats for an immersive reading experience.",
+            "Each digital work includes a layer of exclusive Sanctuary annotations.",
+            "You can access your readings from any device synced with your account."
+          ],
+          "PAGOS": [
+            "We accept all major cards and digital payment methods on the market.",
+            "We maintain a policy of absolute transparency in our intellectual rates.",
+            "There are special memberships that grant free access to large sections of the catalog."
+          ]
+        }
+      },
+      "EVENTS": {
+        "TITLE": "Events",
+        "SUB": {
+          "PROXIMOS": "Upcoming Encounters",
+          "INSCRIPCIONES": "Registrations",
+          "SUGERENCIAS": "Suggestions"
+        },
+        "RESPONSES": {
+          "PROXIMOS": [
+            "The cultural agenda is updated monthly with symposia and night readings.",
+            "We are preparing a series of workshops on manuscript preservation.",
+            "Check the Events section to discover upcoming star-lit evenings."
+          ],
+          "INSCRIPCIONES": [
+            "Spots are limited to preserve the atmosphere of intimacy and reflection.",
+            "You will receive a unique access code in your institutional email after booking.",
+            "Cancellations must be made 24 hours in advance to release the space."
+          ],
+          "SUGERENCIAS": [
+            "We deeply value the proposals from our intellectual community.",
+            "Do you have an author or theme in mind for our next dialogue?",
+            "All suggestions are evaluated by our curation committee."
+          ]
+        }
+      },
+      "SUPPORT": {
+        "TITLE": "Support",
+        "SUB": {
+          "CUENTA": "Account and Profile",
+          "TECNICO": "Technical Issues",
+          "PRIVACIDAD": "Privacy"
+        },
+        "RESPONSES": {
+          "CUENTA": [
+            "You can personalize your literary identity from the settings panel.",
+            "Make sure to keep your institutional email updated for VIP notifications.",
+            "The security of your access key is our top technical priority."
+          ],
+          "TECNICO": [
+            "We are constantly optimizing the digital sanctuary for your fluidity.",
+            "If you experience slowness, try clearing your browser's logs.",
+            "Our engineering team monitors the system in real-time 24 hours a day."
+          ],
+          "PRIVACIDAD": [
+            "Your data is protected under the highest encryption standards.",
+            "At BeBook, the anonymity of your reading preferences is a sacred right.",
+            "We never share your information with entities outside our reserve."
+          ]
+        }
+      },
+      "GENERAL": {
+        "TITLE": "General",
+        "SUB": {
+          "SOBRE": "About BeBook",
+          "MEMBRESIAS": "Memberships",
+          "VIP": "VIP Locations"
+        },
+        "RESPONSES": {
+          "SOBRE": [
+            "We are a sanctuary dedicated to the preservation and dissemination of knowledge.",
+            "Our mission is to unite the elegance of the past with the technology of the future.",
+            "We were born in 2024 with the vision of creating an unprecedented reading space."
+          ],
+          "MEMBRESIAS": [
+            "BeBook memberships offer exclusive benefits at all our locations.",
+            "From early access to invitations to private gala events.",
+            "There are different levels adapted to your pace of literary immersion."
+          ],
+          "VIP": [
+            "Our VIP locations feature private reading rooms and curation services.",
+            "Located in environments of total serenity for complete concentration.",
+            "You can book exclusive appointments through our interactive map."
+          ]
+        }
+      }
+    }
+  }
+}

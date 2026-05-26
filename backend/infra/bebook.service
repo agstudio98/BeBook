@@ -1,0 +1,14 @@
+[Unit]
+Description=BeBook Backend API
+After=network.target mongod-BeBook.service
+
+[Service]
+User=agustin
+WorkingDirectory=/mnt/unidad_local/Proyectos/Web's/React - FullStack/BeBook/backend
+ExecStart=/home/agustin/.config/nvm/versions/node/v20.20.1/bin/node app.js
+Restart=always
+Environment=NODE_ENV=production
+EnvironmentFile=/mnt/unidad_local/Proyectos/Web's/React - FullStack/BeBook/backend/.env
+
+[Install]
+WantedBy=multi-user.target

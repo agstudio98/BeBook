@@ -1,0 +1,15 @@
+[Unit]
+Description=MongoDB BeBook
+After=network.target
+
+[Service]
+User=mongodb
+Group=mongodb
+Type=forking
+RuntimeDirectory=mongodb
+ExecStart=/usr/bin/mongod --config /etc/mongod-BeBook.conf
+PIDFile=/run/mongodb/mongod-BeBook.pid
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
