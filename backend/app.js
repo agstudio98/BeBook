@@ -65,6 +65,11 @@ const configureMiddlewares = (app) => {
  * @param {import('express').Application} app - The Express application instance.
  */
 const configureRoutes = (app) => {
+  // Direct API Welcome
+  app.get('/api', (req, res) => {
+    res.json({ message: 'BeBook API is live' });
+  });
+
   // Health check
   app.get('/api/health', (req, res) => {
     res.json({ 
