@@ -105,18 +105,21 @@ const startServer = async () => {
   try {
     logger.header('BeBook API - Sistema de Gestión Literaria');
     
-    // 1. Connect to Database
-    await connectDB();
-    
-    // 2. Run Seeders
-    await runSeeders();
-
-    // 3. Start Listening
+    // 1. Start Listening IMMEDIATELY (Crucial for Render/Cloud providers)
     app.listen(PORT, () => {
       logger.success(`Servidor en marcha en puerto ${PORT}`);
       logger.info(`Modo: ${process.env.NODE_ENV || 'development'}`);
       logger.divider();
     });
+
+    // 2. Connect to Database in background
+    connectDB().then(() => {
+      // 3. Run Seeders only after successful connection
+      runSeeders();
+    }).catch(err => {
+      logger.error(`Error diferido de BD: ${err.message}`);
+    });
+
   } catch (error) {
     logger.error(`Error al iniciar el servidor: ${error.message}`);
     process.exit(1);
